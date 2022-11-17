@@ -1,3 +1,4 @@
+
 def shades_of_grey(n):
     shades = []
     hex = "123456789abcdef"
